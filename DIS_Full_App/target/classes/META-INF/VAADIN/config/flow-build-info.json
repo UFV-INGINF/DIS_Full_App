@@ -1,0 +1,9 @@
+{
+  "compatibilityMode": false,
+  "productionMode": false,
+  "npmFolder": "/Users/ignacioserranobroncano/Desktop/DIS_Full_App/DIS_Full_App",
+  "generatedFolder": "/Users/ignacioserranobroncano/Desktop/DIS_Full_App/DIS_Full_App/target/frontend",
+  "frontendFolder": "/Users/ignacioserranobroncano/Desktop/DIS_Full_App/DIS_Full_App/frontend",
+  "pnpm.enable": false,
+  "require.home.node": false
+}
