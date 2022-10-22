@@ -75,7 +75,6 @@ public class Character {
                 ", mass='" + mass + '\'' +
                 ", hair_color='" + hair_color + '\'' +
                 ", skin_color='" + skin_color + '\'' +
-                ", eye_color='" + eye_color + '\'' +
-                '}';
+                ", eye_color='" + eye_color + '\'';
     }
 }

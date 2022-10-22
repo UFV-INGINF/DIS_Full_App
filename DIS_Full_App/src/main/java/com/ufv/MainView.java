@@ -87,7 +87,7 @@ public class MainView extends HorizontalLayout {
 
                     Character character = gson.fromJson(response, Character.class);
 
-                    mainRight.add(character.getName());
+                    mainRight.add(character.toString());
                 });
         mainLeft.add(horizontalLayout, button);
         add(mainLeft, mainRight);
